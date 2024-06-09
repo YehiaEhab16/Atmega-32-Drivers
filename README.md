@@ -1,2 +1,2 @@
 # Atmega-32-Drivers
-Atmega 32 Drivers with Layered Architecture
+Atmega32 (AVR) Drivers with Layered Architecture
